@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/q1errors.dir/main.c.o  -o q1errors 

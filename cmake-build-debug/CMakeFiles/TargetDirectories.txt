@@ -1,0 +1,3 @@
+/home/patrick/Documents/ClassWork/Jan-Apr-2020/Programming Methodologies/q1errors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/patrick/Documents/ClassWork/Jan-Apr-2020/Programming Methodologies/q1errors/cmake-build-debug/CMakeFiles/q1errors.dir
+/home/patrick/Documents/ClassWork/Jan-Apr-2020/Programming Methodologies/q1errors/cmake-build-debug/CMakeFiles/edit_cache.dir
